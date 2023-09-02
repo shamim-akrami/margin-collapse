@@ -1,0 +1,18 @@
+.h1{ 
+    color: rgb(165, 107, 219); 
+} 
+.section1{ 
+    font-size: larger; 
+    background-color: rgb(199, 245, 245); 
+    padding: 5px; 
+    margin: 30px 5px; 
+} 
+.section2{ 
+    font-size: larger; 
+    background-color: rgb(232, 199, 245); 
+    padding: 1px;  
+    margin: 5px; 
+} 
+/* although i choosed 1px for the second margin, the larger one(30px) is shown due to this margin collapse bug. */ 
+
+ 
